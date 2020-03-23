@@ -1,13 +1,13 @@
 ---
-title: Design Internship
+title: The rest is history...
 description: This is a post on My Blog about agile frameworks.
-date: 2001-05-01
+where: Lorem ipsum
+date: 2012-05-01
 tags:
   - CV
   - project
 layout: layouts/post.njk
-where: Brisbane, AU
-image: /img/w3images/workbench.jpg
+image: /img/w3images/coffee.jpg
 ---
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 

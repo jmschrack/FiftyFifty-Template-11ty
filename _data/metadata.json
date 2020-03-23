@@ -10,6 +10,8 @@
   },
   "author": {
     "name": "Your Name Here",
-    "email": "youremailaddress@example.com"
+    "email": "youremailaddress@example.com",
+    "phone" : "+1 901 555 0000",
+    "city" : "Anytown, US"
   }
 }
