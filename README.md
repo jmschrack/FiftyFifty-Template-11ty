@@ -1,13 +1,12 @@
-# eleventy-base-blog
+# FiftyFifty-Template-11ty
 
-A starter repository showing how to build a blog with the [Eleventy](https://github.com/11ty/eleventy) static site generator.
+A starter repository showing how to build a blog with the [Eleventy](https://github.com/11ty/eleventy) static site generator and the W3CSS "Single 50/50" template
 
-[![Build Status](https://travis-ci.org/11ty/eleventy-base-blog.svg?branch=master)](https://travis-ci.org/11ty/eleventy-base-blog)
+[![Build Status](https://travis-ci.com/jmschrack/FiftyFifty-Template-11ty.svg?branch=dev)](https://travis-ci.com/jmschrack/FiftyFifty-Template-11ty)
 
 ## Demos
 
-* [Netlify](https://eleventy-base-blog.netlify.com/)
-* [GitHub Pages](https://11ty.github.io/eleventy-base-blog/)
+* [GitHub Pages](https://jmschrack.github.io/FiftyFifty-Template-11ty/)
 
 ## Deploy this to your own site
 
